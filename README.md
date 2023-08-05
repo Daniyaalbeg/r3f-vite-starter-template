@@ -1,6 +1,19 @@
-# React + TypeScript + Vite
+# Vite + TS + R3F + Drei + Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working with React Three Fiber. The tools chosen are ones I prefer using.
+
+## Packages Included:
+
+- React
+- Typescript
+- Tailwind
+- Three
+- React Three Fiber
+- Drei
+- Zustand
+- Framer Motion 3D
+
+## Vite template ReadMe:
 
 Currently, two official plugins are available:
 
